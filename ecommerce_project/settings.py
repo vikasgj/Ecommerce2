@@ -15,7 +15,7 @@ SECRET_KEY = 'django-insecure-3yrlc5h!^*#207_2#fz1cx5n9l1xdt28eab)yd0tdy-i59xe*=
 DEBUG = False
 
 # Allow your Render host in production
-ALLOWED_HOSTS = ['localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'ecommerce2-7017.onrender.com']
 
 # Application definition
 INSTALLED_APPS = [
